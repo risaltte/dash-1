@@ -106,6 +106,11 @@ $ code .
 ```
 
 <h2 id="demo">🧪 Demo</h2>
+<a href="https://risaltte.github.io/dash-1/" target="_blank">
+  <img src="https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
+</a>
+<br>
+
 <a href="https://dash-1-navy.vercel.app" target="_blank">
 <!-- Link externo ou local(.github). -->
   <img src=".github/img/vercel_button.png">  
