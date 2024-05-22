@@ -7,25 +7,25 @@
 </h1>
 
 <p align="center">
-  Layout Landing Page.
+  Layout Dashboard.
 </p>
 
 <p align="center">
   <!-- GitHub last commit -->
-  <a href="https://github.com/risaltte/landing-page-01/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/risaltte/landing-page-01?color=81D8F7">
+  <a href="https://github.com/risaltte/dash-1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/risaltte/dash-1?color=81D8F7">
   </a>
   <!-- GitHub language count -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/risaltte/landing-page-01?color=81D8F7">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/risaltte/dash-1?color=81D8F7">
   <!-- GitHub top language -->
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/risaltte/landing-page-01?color=81D8F7">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/risaltte/dash-1?color=81D8F7">
   <!-- Repository size -->
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/risaltte/landing-page-01?color=81D8F7">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/risaltte/dash-1?color=81D8F7">
   <!-- Repository status -->
   <img src="https://www.repostatus.org/badges/latest/unsupported.svg">
   <!-- Link repo -->
-  <a href="https://github.com/risaltte/landing-page-01/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/risaltte/landing-page-01?color=81D8F7" alt="License">
+  <a href="https://github.com/risaltte/dash-1/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/risaltte/dash-1?color=81D8F7" alt="License">
   </a>
 </p>
 
@@ -40,24 +40,26 @@
 </p>
 
 <h4 align="center">
-  	🚧 Layout Landing Page with HTML, CSS and Javascript | Done 🚧
+  	🚧 Layout Dashboard with HTML, CSS and Javascript | Done 🚧
 </h4>
 
 <h2 id="about">
 💻 About
 </h2>
 
-The layout landing page were created based on <a href="https://www.youtube.com/@larissakich">Larissa Kich</a> classes available on YouTube:
-- **[Lesson 01](https://www.youtube.com/watch?v=8V3mw1w6h0U&list=PLu5MVKvD2rWGHelEq5xShhgQ78jszN2Rt&index=52&ab_channel=LarissaKich)**
+The layout dashboard were created based on <a href="https://www.youtube.com/@EGATORTUTORIALS">EGATOR</a> classes available on YouTube:
+- **[Lesson 01](https://www.youtube.com/watch?v=BOF79TAIkYQ&ab_channel=EGATOR)**
 
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-  <img src=".github/img/Desktop.png" alt="Layout Desktop">
+  <img src=".github/img/desktop-1.png" alt="Layout Desktop">
+  <img src=".github/img/desktop-2.png" alt="Layout Desktop">
 </p>
 
 <p align="center">
-  <img src=".github/img/Mobile.png" alt="Layout Mobile">
+  <img src=".github/img/mobile-1.png" alt="Layout Mobile">
+  <img src=".github/img/mobile-2.png" alt="Layout Mobile">
 </p>
 
 <br />
@@ -68,12 +70,10 @@ The following tools were used in the construction of the project:
 - **[HTML]**
 - **[CSS]**
 - **[Javascript]**
-- **[Jquery](https://jquery.com/)**
 
 **Utilities**
 
-- Animations: **[ScroolReveal](https://scrollrevealjs.org/)**
-- Icons: **[Fontawesome](https://fontawesome.com/)**
+- Icons: **[Material Icons](https://developers.google.com/fonts/docs/material_icons?hl=pt-br)**
 
 <h2 id="prerequisites">💿 How to run the project</h2>
 
@@ -88,10 +88,10 @@ Before you start, you will need to have the following tools installed on your ma
 
 ```bash
 # Clone repo
-$ git clone https://github.com/risaltte/cardapiosj.git
+$ git clone https://github.com/risaltte/dash-1.git
 
 # Access the project folder in the terminal/cmd
-$ cd cardapiosj
+$ cd dash-1
 
 # Install and run Live server on vscode
 
@@ -100,7 +100,7 @@ $ cd cardapiosj
 ```
 
 <h2 id="demo">🧪 Demo</h2>
-<a href="https://landing-page-01-five.vercel.app" target="_blank">
+<a href="https://dash-1-five.vercel.app" target="_blank">
 <!-- Link externo ou local(.github). -->
   <img src=".github/img/vercel_button.png">  
 </a>
