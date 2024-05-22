@@ -54,11 +54,14 @@ The layout dashboard were created based on <a href="https://www.youtube.com/@EGA
 
 <p align="center">
   <img src=".github/img/desktop-1.png" alt="Layout Desktop">
+  <br></br>
   <img src=".github/img/desktop-2.png" alt="Layout Desktop">
 </p>
+<br></br>
 
-<p align="center">
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 16px;">
   <img src=".github/img/mobile-1.png" alt="Layout Mobile">
+  
   <img src=".github/img/mobile-2.png" alt="Layout Mobile">
 </p>
 
@@ -92,6 +95,9 @@ $ git clone https://github.com/risaltte/dash-1.git
 
 # Access the project folder in the terminal/cmd
 $ cd dash-1
+
+# Open the project in the vscode
+$ code .
 
 # Install and run Live server on vscode
 
